@@ -1,2 +1,1 @@
-This is Student B version.
-
+This is a Collaborative Project by Student A and Student B.
